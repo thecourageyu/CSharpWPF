@@ -12,6 +12,9 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using IronPython.Hosting;
+
+// 工具>NuGet封裝管理員>套檢管理主控台
 
 namespace WPFApp20170912
 {
@@ -20,9 +23,11 @@ namespace WPFApp20170912
     /// </summary>
     public partial class MainWindow : Window
     {
+
         public MainWindow()
         {
             InitializeComponent();
+           
         }
 
         private void WPFTest_Loaded(object sender, RoutedEventArgs e)
@@ -35,5 +40,9 @@ namespace WPFApp20170912
             MessageBox.Show("Welcome!");
         }
 
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
