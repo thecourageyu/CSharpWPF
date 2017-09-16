@@ -12,7 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-using IronPython.Hosting;
+//using IronPython.Hosting;
 
 // 工具>NuGet封裝管理員>套檢管理主控台
 
@@ -32,7 +32,12 @@ namespace WPFApp20170912
 
         private void WPFTest_Loaded(object sender, RoutedEventArgs e)
         {
+            Title = "WPFTest";
+            //Size = new Size(800, 600);
+             
+            
 
+            MessageBox.Show("Welcome!");
         }
 
         private void Grid_Loaded(object sender, RoutedEventArgs e)
@@ -40,7 +45,12 @@ namespace WPFApp20170912
             MessageBox.Show("Welcome!");
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
+        private void ComboBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+
+        }
+
+        private void Input_TextChanged(object sender, TextChangedEventArgs e)
         {
 
         }

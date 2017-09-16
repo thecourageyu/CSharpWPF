@@ -12,3 +12,17 @@ E:\visual studio 2017\Projects\WPFApp20170912\obj\Debug\WPFApp20170912.Propertie
 E:\visual studio 2017\Projects\WPFApp20170912\obj\Debug\WPFApp20170912.csproj.GenerateResource.Cache
 E:\visual studio 2017\Projects\WPFApp20170912\obj\Debug\WPFApp20170912.exe
 E:\visual studio 2017\Projects\WPFApp20170912\obj\Debug\WPFApp20170912.pdb
+E:\visual studio 2017\Projects\CSharpWPF\obj\Debug\WPFApp20170912.csprojResolveAssemblyReference.cache
+E:\visual studio 2017\Projects\CSharpWPF\obj\Debug\MainWindow.g.cs
+E:\visual studio 2017\Projects\CSharpWPF\obj\Debug\App.g.cs
+E:\visual studio 2017\Projects\CSharpWPF\obj\Debug\WPFApp20170912_MarkupCompile.cache
+E:\visual studio 2017\Projects\CSharpWPF\obj\Debug\WPFApp20170912_MarkupCompile.lref
+E:\visual studio 2017\Projects\CSharpWPF\obj\Debug\WPFApp20170912.exe
+E:\visual studio 2017\Projects\CSharpWPF\obj\Debug\WPFApp20170912.pdb
+E:\visual studio 2017\Projects\CSharpWPF\bin\Debug\WPFApp20170912.exe.config
+E:\visual studio 2017\Projects\CSharpWPF\bin\Debug\WPFApp20170912.exe
+E:\visual studio 2017\Projects\CSharpWPF\bin\Debug\WPFApp20170912.pdb
+E:\visual studio 2017\Projects\CSharpWPF\obj\Debug\MainWindow.baml
+E:\visual studio 2017\Projects\CSharpWPF\obj\Debug\WPFApp20170912.g.resources
+E:\visual studio 2017\Projects\CSharpWPF\obj\Debug\WPFApp20170912.Properties.Resources.resources
+E:\visual studio 2017\Projects\CSharpWPF\obj\Debug\WPFApp20170912.csproj.GenerateResource.Cache
